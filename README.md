@@ -26,3 +26,16 @@ Sprawdzanie poprawności wskaźników (zgodność sum, kontrola z RPP) i konteks
 Przejście od liczb do wniosku biznesowego i rekomendacji, w formie czytelnej dla zarządu.
 
 Narzędzia: Excel, Power Query, Power BI.
+
+## Raport
+<img width="1327" height="742" alt="Przegląd" src="https://github.com/user-attachments/assets/56dddefe-551e-4f80-8f5f-6ce4541bea71" />
+<img width="1325" height="742" alt="Wnioski" src="https://github.com/user-attachments/assets/c7b732c6-542c-4eaf-8dfd-453779d95578" />
+<img width="1322" height="740" alt="Wodospad" src="https://github.com/user-attachments/assets/2d5f11d7-d744-4f9f-9acf-08ea9723f7f2" />
+
+[Raport.pdf](https://github.com/user-attachments/files/33600325/Raport.pdf)
+
+
+
+
+
+
